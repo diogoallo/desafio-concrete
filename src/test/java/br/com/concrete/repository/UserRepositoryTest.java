@@ -24,7 +24,7 @@ import br.com.concrete.model.Users;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @ActiveProfiles("test")
-public class UsuarioRepositoryTest {
+public class UserRepositoryTest {
 	
 	private static final String email = "email@teste.com.br";
 	
